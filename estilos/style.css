@@ -5,6 +5,9 @@
 h1 {
   text-align: center;
 }
+.title{
+  color: rgb(27, 27, 201);
+}
 body {
   background-color: rgb(121, 121, 250);
 }
